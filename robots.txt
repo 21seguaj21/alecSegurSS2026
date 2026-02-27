@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://21seguaj21.github.io/calc2site/sitemap.xml
