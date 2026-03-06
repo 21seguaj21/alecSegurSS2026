@@ -1,0 +1,4 @@
+baseURL = "https://21seguaj21.github.io/alecSegurSS2026/"
+languageCode = "en-us"
+title = "My Site"
+theme = "blowfish"
