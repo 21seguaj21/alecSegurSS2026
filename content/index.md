@@ -1,6 +1,5 @@
 
-##Arduino LED Matrix Games
-
+## Arduino LED Matrix Games
 ## Senior Study Project
 
 This website explains how to:
