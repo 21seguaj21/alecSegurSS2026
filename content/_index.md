@@ -1,5 +1,24 @@
+# Arduino LED Matrix Games
+
+## Senior Study Project
+
+This website explains how to:
+
+- Wire an 8x8 LED matrix
+- Program Snake in C++
+- Program Stacker in C++
+- Upload code to an Arduino Uno
+
 ---
-title: "Welcome to Calculus 2 Website!"
-description: "This is a demo of math shit to the homepage."
----
-WE DO MATH HERE
+
+## Sections
+
+- [Hardware Setup](hardware.md)
+- [Snake Game](snake.md)
+- [Stacker Game](stacker.md)
+- [Troubleshooting](troubleshooting.md)
+
+## Author
+Your Name
+Maryville College
+2026
